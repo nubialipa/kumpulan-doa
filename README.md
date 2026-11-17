@@ -12,3 +12,4 @@ https://nubialipa.github.io/kumpulan-doa/ (setelah deploy selesai)
 
 ## Catatan
 Teks bacaan dirangkum dari rujukan umum. Cocokkan lafal dan jumlah bacaan dengan buku zikir rujukan sebelum dibagikan.
+
